@@ -48,6 +48,7 @@ header h2{
 body{
 	min-height: 100vh;
 	background: rgb(0, 5, 2);
+	scroll-behavior: smooth;
 }
 	
 main h2{
